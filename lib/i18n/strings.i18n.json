@@ -1,0 +1,144 @@
+{
+  "appName": "CxPlayground",
+  "signUp": "SignUp",
+  "signIn": "SignIn",
+  "clickHere": "Click Here",
+  "notAMember": "Not a member? ",
+  "alreadyAMember": "Already a member? ",
+  "ok": "Ok",
+  "logout": "LogOut",
+  "yesNo": {
+    "yes": "Yes",
+    "no": "No"
+  },
+  "error": {
+    "anErrorOccurred": "An error occurred",
+    "fail": "Logged in failed",
+    "invalidUsername": "Invalid Username",
+    "invalidEmail": "Invalid Email",
+    "needPassword": "You need a password.",
+    "passwordsNotMatch": "Passwords do not match!",
+    "passwordNotValid": "Password size should be bigger than 8 characters and smaller than 20, and contain at least one lower case letter, one uppercase letter, one digit and one special character like \"*,_\" ",
+    "unableAuthenticate": "Unable to authenticate you now. Please try again later",
+    "unableNow": "Unable to perform that operation right now. Please try again later",
+    "forgotPassword": "Forgot your password? ",
+    "usernameTooLong": "Username should be smaller than 16 characters",
+    "maximum": "Maximum Reached",
+    "minimum": "Minimum Reached"
+  },
+  "userData": {
+    "username": "Username",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "usernameDyn": "Username: $username",
+    "emailDyn": "Email: $email"
+  },
+  "edit": "Edit",
+  "save": "Save",
+  "asterisks": "******",
+  "deleteAccount": "Delete Account",
+  "areUSure": "Are you sure?",
+  "confirmPassword": "Confirm Password",
+  "image": "assets/images/avatar_$avatar.png",
+  "logo": "assets/images/logoWithoutBackground.png",
+  "delete": {
+    "delete" : "Delete User",
+    "areUSure": "Are you sure you want to delete user $userName?\\nThis operation is irreversible."
+  },
+  "usersAdmin": {
+    "delete": "Delete",
+    "turnAdmin": "Turn Admin",
+    "removeAdmin": "Remove",
+    "turnAdminMessage": "User is now Admin",
+    "removeAdminMessage": "User removed from Admin",
+    "checkYourPage": "See User"
+  },
+  "exceptions": {
+    "operationNotAllowed": "Operation not allowed!",
+    "adminPrivileges": "You don't have administrator privileges",
+    "userDoesntExist": "User doesn't exist.",
+    "incorrectPassword": "You password is incorrect.",
+    "emailInUse": "Your email is already registered. Please contact an administrator.",
+    "gameDoesntExist": "Game doesn't exist.",
+    "reservationDoesntExist": "Reservation doesn't exist.",
+    "gameFullException": "This reservation is full!",
+    "gameNotOpenException": "It's a private game... sorry!",
+    "notTournamentOwner": "You are not the owner of this tournament!",
+    "teamFull": "This team is full!",
+    "tournamentFull": "This tournament is full!"
+  },
+  "pages": {
+    "reservations": "Reservations",
+    "myReservations": "My Reservations",
+    "book": "Book",
+    "tournament": "Tournament",
+    "user": "User",
+    "manageUsers": "Users",
+    "manageGames": "Games"
+  },
+  "games": {
+    "lock": "Lock",
+    "unlock": "Unlock",
+    "lockMessage": "Game locked",
+    "unlockMessage": "Game unlocked",
+    "deleteGame": "Delete Game",
+    "areUSure": "Are you sure you want to delete the game $game?\\nThis operations is irreversible."
+  },
+  "categories": {
+    "deleteCategory": "Delete Category",
+    "areUSure": "Are you sure you want to delete the category $category?\\nThis operations is irreversible."
+  },
+  "game": {
+    "name": "Name",
+    "duration": "Duration",
+    "nMax": "Players Max",
+    "nMin": "Players Min",
+    "description": "Description",
+    "isAvailable": "Available",
+    "idCategory": "Category",
+    "createCategory": "Create Category",
+    "categoryName": "Category Name",
+    "deleteCategory": "Delete Category",
+    "areUSureCategory": "Are you sure you want to delete $category category?",
+    "error": {
+      "cantBeNull" : "Can't be null.",
+      "moreTanOne": "The game should take more than 1 minute!",
+      "nameTooLong": "Should be lower than 15 characters.",
+      "tooShort": "You need at least 1 player.",
+      "tooLong": "Max allowed 10 players.",
+      "onlyInt": "Only integers allowed.",
+      "descTooLong": "Should be lower than 45 characters."
+    }
+  },
+  "favourite": "Favourite",
+  "join": "Join",
+  "reservations": {
+    "openGame": "Open Game",
+    "selectDate": "Select a Day",
+    "startTime": "Start Time",
+    "endTime": "End Time",
+    "changeSlot": "Change Slot",
+    "duration": "Duration",
+    "addPlayers": "Select other participants",
+    "dates": "$initDate - $endDate",
+    "notAnyReservation": "It seem like no one wants to play this game in open mode...\nCreate your open reservation now!",
+    "all": "All",
+    "myReservations": "My Reservations",
+    "participating": "Participating",
+    "leave": "Leave",
+    "youIn": "You are now in that $game reservation"
+  },
+  "tournaments": {
+    "selectDate": "Select a Day",
+    "notAnyTournament": "It seem like there is no tournament in this game...\nCreate a tournament now!",
+    "createYourTeam": "Press here to create your team!",
+    "notAnyTeam": "Not any team yet",
+    "numOfTeams": "Number of Teams",
+    "numOfPlayers": "Number of Players",
+    "selectAPeriod": "Select a day or more",
+    "yourTeam": "Your Team",
+    "youNeedATeam": "Create your team!",
+    "myTournaments": "My Tournaments"
+  }
+}

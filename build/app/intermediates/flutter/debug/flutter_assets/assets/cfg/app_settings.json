@@ -1,0 +1,9 @@
+{
+  "ip" : "https://6d74-193-137-92-95.eu.ngrok.io",
+  "teams": "https://teams.microsoft.com/l/chat/0/0?users=",
+  "host" : "h1.host.filess.io",
+  "port": 3306,
+  "userName": "user_CxPlayground_375209c8f2",
+  "password": "5d97657672db67cda88f8aa5bb347a23cb027ec2",
+  "databaseName": "CxPlayground_b46f1a22f5"
+}

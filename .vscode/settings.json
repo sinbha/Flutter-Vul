@@ -1,0 +1,11 @@
+{
+    "cx.server": {
+        "url": "https://kib.checkmarx.net/",
+        "alias": "kib",
+        "username": "kibAdmin@cx.com",
+        "password": "13OYCAF7hWe8yfPBqc2bBWsDuA/P6vmXdPjsu+Pg7g==",
+        "project_id": 9,
+        "team_id": 1,
+        "project_name": "Flutter-Vulnerable"
+    }
+}
